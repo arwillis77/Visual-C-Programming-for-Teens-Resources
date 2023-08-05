@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Skeleton with Bow</name>
+    <class>Hunter</class>
+    <race>Undead</race>
+    <desc>Undead skeleton archer was once a Viking bowman who fell under the curse. This is a template for the animation set.</desc>
+    <str>6</str>
+    <dex>12</dex>
+    <sta>6</sta>
+    <int>3</int>
+    <cha>2</cha>
+    <hitpoints>12</hitpoints>
+    <anim_walk_filename>skeleton archer walk.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>8</anim_walk_columns>
+    <anim_attack_filename>skeleton archer attack.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>13</anim_attack_columns>
+    <anim_die_filename>skeleton archer die.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>9</anim_die_columns>
+    <dropgold1>1</dropgold1>
+    <dropgold2>5</dropgold2>
+    <drop1_num>0</drop1_num>
+    <drop2_num>0</drop2_num>
+    <drop3_num>0</drop3_num>
+    <drop1_item />
+    <drop2_item />
+    <drop3_item />
+  </character>
+</DocumentElement>

@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Zombie</name>
+    <class>Peasant</class>
+    <race>Undead</race>
+    <desc>Zombies are undead townspeople and peasants who ventured too close to the opening of the dungeon and were captured. Due to their preferred food, always keep your helmet on around them.</desc>
+    <str>6</str>
+    <dex>11</dex>
+    <sta>10</sta>
+    <int>5</int>
+    <cha>9</cha>
+    <hitpoints>15</hitpoints>
+    <anim_walk_filename>zombie walk.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>8</anim_walk_columns>
+    <anim_attack_filename>zombie attack.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>11</anim_attack_columns>
+    <anim_die_filename>zombie die.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>9</anim_die_columns>
+    <dropgold1>6</dropgold1>
+    <dropgold2>12</dropgold2>
+  </character>
+</DocumentElement>

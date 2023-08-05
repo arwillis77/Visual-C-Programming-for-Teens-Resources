@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/lua-5.1.2/test
+END
+fib.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/fib.lua
+END
+printf.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/printf.lua
+END
+hello.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/hello.lua
+END
+factorial.lua
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/factorial.lua
+END
+fibfor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/fibfor.lua
+END
+bisect.lua
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/bisect.lua
+END
+xd.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/xd.lua
+END
+sieve.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/sieve.lua
+END
+readonly.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/readonly.lua
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/README
+END
+echo.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/echo.lua
+END
+life.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/life.lua
+END
+trace-globals.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/trace-globals.lua
+END
+globals.lua
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/globals.lua
+END
+luac.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/luac.lua
+END
+sort.lua
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/sort.lua
+END
+table.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/table.lua
+END
+cf.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/cf.lua
+END
+env.lua
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/env.lua
+END
+trace-calls.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/lua-5.1.2/test/trace-calls.lua
+END

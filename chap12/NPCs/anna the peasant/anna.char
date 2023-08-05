@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Anna</name>
+    <class>Peasant</class>
+    <race>Human</race>
+    <desc>Anna peasant girl wearing a green dress.</desc>
+    <str>1</str>
+    <dex>1</dex>
+    <sta>1</sta>
+    <int>1</int>
+    <cha>1</cha>
+    <hitpoints>1</hitpoints>
+    <anim_walk_filename>anna.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>8</anim_walk_columns>
+    <anim_attack_filename>anna.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>8</anim_attack_columns>
+    <anim_die_filename>anna.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>8</anim_die_columns>
+    <dropgold1>0</dropgold1>
+    <dropgold2>0</dropgold2>
+  </character>
+</DocumentElement>

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Hero Unarmed</name>
+    <class>Newbie</class>
+    <race>Human</race>
+    <desc>The hero is but a peasant without his equipment.</desc>
+    <str>2</str>
+    <dex>6</dex>
+    <sta>2</sta>
+    <int>9</int>
+    <cha>2</cha>
+    <hitpoints>8</hitpoints>
+    <anim_walk_filename>hero unarmed walk.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>9</anim_walk_columns>
+    <anim_attack_filename>hero unarmed attack.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>9</anim_attack_columns>
+    <anim_die_filename>hero unarmed die.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>9</anim_die_columns>
+    <dropgold1>1</dropgold1>
+    <dropgold2>10</dropgold2>
+    <drop1_num>0</drop1_num>
+    <drop2_num>0</drop2_num>
+    <drop3_num>0</drop3_num>
+    <drop1_item />
+    <drop2_item />
+    <drop3_item />
+  </character>
+</DocumentElement>

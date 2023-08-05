@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Vendor</name>
+    <class>Peasant</class>
+    <race>Human</race>
+    <desc>The vendor buys and sells goods, including some weapons and armor items.</desc>
+    <str>1</str>
+    <dex>1</dex>
+    <sta>1</sta>
+    <int>1</int>
+    <cha>1</cha>
+    <hitpoints>1</hitpoints>
+    <anim_walk_filename>vendor.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>1</anim_walk_columns>
+    <anim_attack_filename>vendor.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>1</anim_attack_columns>
+    <anim_die_filename>vendor.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>1</anim_die_columns>
+    <dropgold1>0</dropgold1>
+    <dropgold2>0</dropgold2>
+    <drop1_num>0</drop1_num>
+    <drop2_num>0</drop2_num>
+    <drop3_num>0</drop3_num>
+    <drop1_item />
+    <drop2_item />
+    <drop3_item />
+  </character>
+</DocumentElement>

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Skeleton unarmed</name>
+    <class>Peasant</class>
+    <race>Undead</race>
+    <desc>This former Viking peasant, now a hopeless undead, roams the countryside looking for his farm.</desc>
+    <str>1</str>
+    <dex>5</dex>
+    <sta>4</sta>
+    <int>8</int>
+    <cha>5</cha>
+    <hitpoints>11</hitpoints>
+    <anim_walk_filename>skeleton_walk.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>9</anim_walk_columns>
+    <anim_attack_filename>skeleton_attack.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>10</anim_attack_columns>
+    <anim_die_filename>skeleton_die.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>9</anim_die_columns>
+    <dropgold1>1</dropgold1>
+    <dropgold2>10</dropgold2>
+    <drop1_num>0</drop1_num>
+    <drop2_num>0</drop2_num>
+    <drop3_num>0</drop3_num>
+    <drop1_item />
+    <drop2_item />
+    <drop3_item />
+  </character>
+</DocumentElement>

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc
+END
+luavs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/luavs.bat
+END
+lua.pc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/lua.pc
+END
+min.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/min.c
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/lua.hpp
+END
+strict.lua
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/strict.lua
+END
+all.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/all.c
+END
+noparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/noparser.c
+END
+lua.ico
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/lua.ico
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/lua-5.1.2/etc/Makefile
+END

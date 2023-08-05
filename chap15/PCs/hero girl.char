@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Hero Girl Axe Shield</name>
+    <class>Paladin</class>
+    <race>Human</race>
+    <desc>Technically a Viking female knight character, according to the artist (Reiner), but perhaps usable as a female hero?</desc>
+    <str>7</str>
+    <dex>12</dex>
+    <sta>18</sta>
+    <int>7</int>
+    <cha>3</cha>
+    <hitpoints>20</hitpoints>
+    <anim_walk_filename>hero girl axe shield walk.png</anim_walk_filename>
+    <anim_walk_width>128</anim_walk_width>
+    <anim_walk_height>128</anim_walk_height>
+    <anim_walk_columns>8</anim_walk_columns>
+    <anim_attack_filename>hero girl axe shield attack.png</anim_attack_filename>
+    <anim_attack_width>128</anim_attack_width>
+    <anim_attack_height>128</anim_attack_height>
+    <anim_attack_columns>13</anim_attack_columns>
+    <anim_die_filename>hero girl axe shield die.png</anim_die_filename>
+    <anim_die_width>128</anim_die_width>
+    <anim_die_height>128</anim_die_height>
+    <anim_die_columns>11</anim_die_columns>
+    <dropgold1>0</dropgold1>
+    <dropgold2>0</dropgold2>
+    <drop1_num>0</drop1_num>
+    <drop2_num>0</drop2_num>
+    <drop3_num>0</drop3_num>
+    <drop1_item />
+    <drop2_item />
+    <drop3_item />
+  </character>
+</DocumentElement>

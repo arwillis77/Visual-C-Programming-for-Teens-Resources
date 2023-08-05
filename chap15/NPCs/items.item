@@ -1,0 +1,666 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <item>
+    <name>Wooden Club</name>
+    <description>This club is a weapon of brute force.</description>
+    <dropimagefilename>mace03d.png</dropimagefilename>
+    <invimagefilename>mace03i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>1</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>4</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Barbed Club</name>
+    <description>A club that wants to be a mace.</description>
+    <dropimagefilename>mace01d.png</dropimagefilename>
+    <invimagefilename>mace01i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>25</weight>
+    <value>2</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>2</STR>
+    <DEX>0</DEX>
+    <STA>2</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Iron Mace</name>
+    <description />
+    <dropimagefilename>mace02d.png</dropimagefilename>
+    <invimagefilename>mace02i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>30</weight>
+    <value>25</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Barbed Mace</name>
+    <description />
+    <dropimagefilename>mace04d.png</dropimagefilename>
+    <invimagefilename>mace04i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>30</weight>
+    <value>40</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Battle Mace</name>
+    <description />
+    <dropimagefilename>mace05d.png</dropimagefilename>
+    <invimagefilename>mace05i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>30</weight>
+    <value>60</value>
+    <attacknumdice>4</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>4</STR>
+    <DEX>2</DEX>
+    <STA>2</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>White Staff</name>
+    <description />
+    <dropimagefilename>staff01d.png</dropimagefilename>
+    <invimagefilename>staff01i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>25</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>4</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>3</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Red Staff</name>
+    <description />
+    <dropimagefilename>staff02d.png</dropimagefilename>
+    <invimagefilename>staff02i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>35</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>4</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Green Staff</name>
+    <description />
+    <dropimagefilename>staff03d.png</dropimagefilename>
+    <invimagefilename>staff03i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>45</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>5</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Yellow Staff</name>
+    <description />
+    <dropimagefilename>staff04d.png</dropimagefilename>
+    <invimagefilename>staff04i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>60</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>6</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Battle Staff</name>
+    <description />
+    <dropimagefilename>staff05d.png</dropimagefilename>
+    <invimagefilename>staff05i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>75</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>10</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>4</STA>
+    <INT>8</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Hatchet</name>
+    <description />
+    <dropimagefilename>axe01d.png</dropimagefilename>
+    <invimagefilename>axe01i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>5</weight>
+    <value>25</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>4</attackdie>
+    <defense>0</defense>
+    <STR>1</STR>
+    <DEX>1</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Skull Piercer</name>
+    <description />
+    <dropimagefilename>axe02d.png</dropimagefilename>
+    <invimagefilename>axe02i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>15</weight>
+    <value>40</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>2</STR>
+    <DEX>2</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Barbarian Axe</name>
+    <description />
+    <dropimagefilename>axe03d.png</dropimagefilename>
+    <invimagefilename>axe03i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>25</weight>
+    <value>60</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>4</STR>
+    <DEX>0</DEX>
+    <STA>2</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Battle Axe</name>
+    <description />
+    <dropimagefilename>axe04d.png</dropimagefilename>
+    <invimagefilename>axe04i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>30</weight>
+    <value>85</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>8</STR>
+    <DEX>0</DEX>
+    <STA>8</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Axe of Destruction</name>
+    <description />
+    <dropimagefilename>axe05d.png</dropimagefilename>
+    <invimagefilename>axe05i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>35</weight>
+    <value>150</value>
+    <attacknumdice>3</attacknumdice>
+    <attackdie>10</attackdie>
+    <defense>0</defense>
+    <STR>10</STR>
+    <DEX>0</DEX>
+    <STA>12</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Short Sword</name>
+    <description />
+    <dropimagefilename>sword01d.png</dropimagefilename>
+    <invimagefilename>sword01i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>10</weight>
+    <value>10</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>4</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Scimitar</name>
+    <description />
+    <dropimagefilename>sword02d.png</dropimagefilename>
+    <invimagefilename>sword02i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>10</weight>
+    <value>15</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Long Sword</name>
+    <description />
+    <dropimagefilename>sword03d.png</dropimagefilename>
+    <invimagefilename>sword03i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>15</weight>
+    <value>30</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Broad Sword</name>
+    <description />
+    <dropimagefilename>sword04d.png</dropimagefilename>
+    <invimagefilename>sword04i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>50</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Serpent Blade</name>
+    <description>This double-edged blade, forged by Master Dugan, will easily slash chain armor and puncture any but the heaviest plate.</description>
+    <dropimagefilename>sword05d.png</dropimagefilename>
+    <invimagefilename>sword05i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>25</weight>
+    <value>250</value>
+    <attacknumdice>4</attacknumdice>
+    <attackdie>10</attackdie>
+    <defense>0</defense>
+    <STR>12</STR>
+    <DEX>5</DEX>
+    <STA>7</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Hunting Bow</name>
+    <description />
+    <dropimagefilename>bow01d.png</dropimagefilename>
+    <invimagefilename>bow01i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>15</weight>
+    <value>20</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>4</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>1</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Cavalry Bow</name>
+    <description />
+    <dropimagefilename>bow02d.png</dropimagefilename>
+    <invimagefilename>bow02i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>35</value>
+    <attacknumdice>1</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>2</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Epic Bow</name>
+    <description />
+    <dropimagefilename>bow03d.png</dropimagefilename>
+    <invimagefilename>bow03i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>20</weight>
+    <value>60</value>
+    <attacknumdice>2</attacknumdice>
+    <attackdie>8</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>5</DEX>
+    <STA>1</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Long Bow</name>
+    <description />
+    <dropimagefilename>bow04d.png</dropimagefilename>
+    <invimagefilename>bow04i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>25</weight>
+    <value>95</value>
+    <attacknumdice>3</attacknumdice>
+    <attackdie>6</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>8</DEX>
+    <STA>3</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Battle Bow</name>
+    <description />
+    <dropimagefilename>bow05d.png</dropimagefilename>
+    <invimagefilename>bow05i.png</invimagefilename>
+    <category>Weapon</category>
+    <weight>30</weight>
+    <value>145</value>
+    <attacknumdice>3</attacknumdice>
+    <attackdie>12</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>12</DEX>
+    <STA>9</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Iron Chainmail</name>
+    <description />
+    <dropimagefilename>chain01d.png</dropimagefilename>
+    <invimagefilename>chain1i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>25</weight>
+    <value>85</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>14</defense>
+    <STR>7</STR>
+    <DEX>-3</DEX>
+    <STA>5</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Bronze Chainmail</name>
+    <description />
+    <dropimagefilename>chain02d.png</dropimagefilename>
+    <invimagefilename>chain02i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>20</weight>
+    <value>45</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>12</defense>
+    <STR>2</STR>
+    <DEX>-1</DEX>
+    <STA>2</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Copper Chainmail</name>
+    <description />
+    <dropimagefilename>chain03d.png</dropimagefilename>
+    <invimagefilename>chain03i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>20</weight>
+    <value>25</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>10</defense>
+    <STR>1</STR>
+    <DEX>-1</DEX>
+    <STA>1</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Steel Chainmail</name>
+    <description />
+    <dropimagefilename>chain04d.png</dropimagefilename>
+    <invimagefilename>chain04i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>25</weight>
+    <value>120</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>18</defense>
+    <STR>10</STR>
+    <DEX>-4</DEX>
+    <STA>8</STA>
+    <INT>0</INT>
+    <CHA>2</CHA>
+  </item>
+  <item>
+    <name>Small Shield</name>
+    <description />
+    <dropimagefilename>shield01d.png</dropimagefilename>
+    <invimagefilename>shield01i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>20</weight>
+    <value>25</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>4</defense>
+    <STR>1</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Cape of Stamina</name>
+    <description />
+    <dropimagefilename>cape01d.png</dropimagefilename>
+    <invimagefilename>cape01i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>8</weight>
+    <value>25</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>6</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>2</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Cape of Strength</name>
+    <description />
+    <dropimagefilename>cape02d.png</dropimagefilename>
+    <invimagefilename>cape02i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>8</weight>
+    <value>25</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>6</defense>
+    <STR>2</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Cape of Intellect</name>
+    <description />
+    <dropimagefilename>cape03d.png</dropimagefilename>
+    <invimagefilename>cape03i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>8</weight>
+    <value>25</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>6</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>2</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Cape of Agility</name>
+    <description />
+    <dropimagefilename>cape04d.png</dropimagefilename>
+    <invimagefilename>cape04i.png</invimagefilename>
+    <category>Armor</category>
+    <weight>8</weight>
+    <value>25</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>6</defense>
+    <STR>0</STR>
+    <DEX>2</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Gold Key</name>
+    <description />
+    <dropimagefilename>keygold.png</dropimagefilename>
+    <invimagefilename>keygold.png</invimagefilename>
+    <category />
+    <weight>1</weight>
+    <value>7</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Silver Key</name>
+    <description />
+    <dropimagefilename>keysilver.png</dropimagefilename>
+    <invimagefilename>keysilver.png</invimagefilename>
+    <category />
+    <weight>0</weight>
+    <value>0</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Red Key</name>
+    <description />
+    <dropimagefilename>keyred.png</dropimagefilename>
+    <invimagefilename>keyred.png</invimagefilename>
+    <category />
+    <weight>0</weight>
+    <value>0</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Green Key</name>
+    <description />
+    <dropimagefilename>keygreen.png</dropimagefilename>
+    <invimagefilename>keygreen.png</invimagefilename>
+    <category />
+    <weight>0</weight>
+    <value>0</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+  <item>
+    <name>Purple Key</name>
+    <description />
+    <dropimagefilename>keypurple.png</dropimagefilename>
+    <invimagefilename>keypurple.png</invimagefilename>
+    <category />
+    <weight>0</weight>
+    <value>0</value>
+    <attacknumdice>0</attacknumdice>
+    <attackdie>0</attackdie>
+    <defense>0</defense>
+    <STR>0</STR>
+    <DEX>0</DEX>
+    <STA>0</STA>
+    <INT>0</INT>
+    <CHA>0</CHA>
+  </item>
+</DocumentElement>

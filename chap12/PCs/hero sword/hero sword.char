@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <character>
+    <name>Hero Sword</name>
+    <class>Warrior</class>
+    <race>Human</race>
+    <desc>Hero with sword</desc>
+    <str>19</str>
+    <dex>7</dex>
+    <sta>12</sta>
+    <int>2</int>
+    <cha>7</cha>
+    <hitpoints>15</hitpoints>
+    <anim_walk_filename>hero sword walk.png</anim_walk_filename>
+    <anim_walk_width>96</anim_walk_width>
+    <anim_walk_height>96</anim_walk_height>
+    <anim_walk_columns>9</anim_walk_columns>
+    <anim_attack_filename>hero sword attack.png</anim_attack_filename>
+    <anim_attack_width>96</anim_attack_width>
+    <anim_attack_height>96</anim_attack_height>
+    <anim_attack_columns>13</anim_attack_columns>
+    <anim_die_filename>hero sword die.png</anim_die_filename>
+    <anim_die_width>96</anim_die_width>
+    <anim_die_height>96</anim_die_height>
+    <anim_die_columns>9</anim_die_columns>
+    <dropgold1>0</dropgold1>
+    <dropgold2>0</dropgold2>
+  </character>
+</DocumentElement>

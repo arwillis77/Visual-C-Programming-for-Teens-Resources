@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/luainterface/samples
+END
+form_alt.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/luainterface/samples/form_alt.lua
+END
+form.lua
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/luainterface/samples/form.lua
+END
+testluaform.lua
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/luainterface/samples/testluaform.lua
+END
+testluaform_alt.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/luainterface/samples/testluaform_alt.lua
+END
+socket.lua
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/luainterface/samples/socket.lua
+END
+socket_alt.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/luainterface/samples/socket_alt.lua
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/luainterface/samples/README.txt
+END
+CLRPackage.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/luainterface/samples/CLRPackage.lua
+END

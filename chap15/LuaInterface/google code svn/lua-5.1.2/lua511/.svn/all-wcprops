@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/lua-5.1.2/lua511
+END
+lua511.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/lua-5.1.2/lua511/lua511.vcproj
+END
+Lua.snk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/lua-5.1.2/lua511/Lua.snk
+END
+LuaDLL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/lua-5.1.2/lua511/LuaDLL.cpp
+END

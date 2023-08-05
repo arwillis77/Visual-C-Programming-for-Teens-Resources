@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/luainterface/doc
+END
+guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/luainterface/doc/guide.pdf
+END
+LuaRunner.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/luainterface/doc/LuaRunner.txt
+END
+luainterface.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/luainterface/doc/luainterface.pdf
+END
